@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "title": "faded",
+            "artist": "Alan Walker",
+            "album": "instrumental"
+        },
+        {
+            "id": 3,
+            "title": "nnn",
+            "artist": "nnn",
+            "album": "nnn"
+        },
+        {
+            "id": 4,
+            "title": "some song",
+            "artist": "some artist",
+            "album": "some album"
+        },
+        {
+            "id": 4,
+            "title": "goodbye",
+            "artist": "Apparat",
+            "album": "Fav"
+        },
+        {
+            "id": 5,
+            "title": "sdfssds",
+            "artist": "dsds",
+            "album": "uuu"
+        },
+        {
+            "id": 6,
+            "title": "Darkside",
+            "artist": "Alan Walker",
+            "album": "remix"
+        },
+        {
+            "id": 7,
+            "title": "song",
+            "artist": "artist",
+            "album": "album"
+        },
+        {
+            "id": 8,
+            "title": "some song 8",
+            "artist": "some artist 8",
+            "album": "some album 8"
+        },
+        {
+            "id": 9,
+            "title": "some song 9",
+            "artist": "some artist 9",
+            "album": "some album 9"
+        }
+    ]
+}
